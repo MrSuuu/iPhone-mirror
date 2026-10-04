@@ -7,6 +7,17 @@
 
 ---
 
+## ⬇️ 下载
+
+**最新版：v1.1**（macOS 12+）
+
+- **打开仓库右侧的 Releases**，下载页面上的 `iPhoneMirror.dmg`
+- 或直接访问：<https://github.com/MrSuuu/iPhone-mirror/releases/latest>
+
+安装包即仓库根目录下的 `iPhoneMirror.dmg`。
+
+---
+
 ## ✨ 功能
 
 - **🖥️ 窗口化镜像**：窗口按手机比例自适应，画面完整显示、任意缩放无黑边
