@@ -11,10 +11,10 @@
 
 **最新版：v1.1**（macOS 12+）
 
-- **打开仓库右侧的 Releases**，下载页面上的 `iPhone.dmg`
+- **打开仓库右侧的 Releases**，下载页面上的 `iPhoneMirror.dmg`
 - 或直接访问：<https://github.com/MrSuuu/iPhone-mirror/releases/latest>
 
-安装包文件名：`iPhone.dmg`（仓库根目录与 Releases 中是同一个文件）。
+安装包文件名：`iPhoneMirror.dmg`（仓库根目录与 Releases 中是同一个文件）。
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 📦 安装
 
-1. 下载 `iPhone.dmg`
+1. 下载 `iPhoneMirror.dmg`
 2. 打开 DMG，把 **iPhone 镜像** 拖进 **Applications** 文件夹
 3. 首次打开若提示「无法验证开发者」，请 **右键点击 App → 打开**（自签名应用的通用步骤）
 
